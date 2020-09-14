@@ -5,3 +5,4 @@ A master Repository that contains all !ws !knife !gloves !stickers plugins in on
 - [CSGO] Gloves (Author: KGNS) - https://forums.alliedmods.net/showthread.php?t=299977
 - [CSGO] Weapon & Knives (Skins, Name Tags, StatTrak, Wear/Float) [!ws !knife !nametag] (Author: KGNS) - https://forums.alliedmods.net/showthread.php?t=298770
 
+Dependencies are all included so don't worry about it
